@@ -1,2 +1,2 @@
-# lab/lab01/aboutme.html
+# Lab/lab01/aboutme.html
 My personal details and hobbies. 
